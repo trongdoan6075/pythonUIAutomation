@@ -1,0 +1,14 @@
+[
+  "test_FP.py::zCentral_frontPage::test_001_QA",
+  "test_FP.py::zCentral_frontPage::test_002_QA_repeat_search",
+  "test_FP.py::zCentral_frontPage::test_QA_turn_on_developer_tool_to_collect_data",
+  "test_FP.py::zCentral_frontPage::test_Staging",
+  "test_FP.py::zCentral_frontPage::test_001_PRODUCTION",
+  "test_FP.py::zCentral_frontPage::test_001_QA_zCentral_search_Studio",
+  "test_FP.py::zCentral_frontPage::test_002_QA_repeat_search_PRODUCTION",
+  "test_FP.py::zCentral_frontPage::test_002_QA_zCentral_search_Studio_Franklin_Invalid",
+  "test_FP.py::zCentral_frontPage::test_002_repeat_search_PRODUCTION",
+  "test_FP.py::zCentral_frontPage::test_003_QA_zCentral_Navigate_Pages",
+  "test_FP.py::zCentral_frontPage::test_101_PRODUCTION_zCentral_search_Studio",
+  "test_FP.py::zCentral_frontPage::test_102_PRODUCTION_repeat_search"
+]

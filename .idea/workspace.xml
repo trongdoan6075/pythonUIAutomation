@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0745384-9e57-4496-b633-0b6c0123d8ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Server</find>
+      <find>key</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SOhAcMgbSAqnh5aTia18UTstTN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Test/zSpace_Com" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\qaAuto\zSpace\Test\zSpace_Com" />
+      <recent name="C:\qaAuto\zSpace\driver" />
+      <recent name="C:\qaAuto\zSpace\Test" />
+      <recent name="C:\Users\zSpace\PycharmProjects\zCentral\Test\zCentral_frontPage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\qaAuto\zCentral\driver" />
+      <recent name="C:\Users\zSpace\PycharmProjects\zCentral\driver" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test_FP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zCentral" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test/zCentral_frontPage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/zCentral_frontPage/test_FP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_FP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0745384-9e57-4496-b633-0b6c0123d8ea" name="Default Changelist" comment="" />
+      <created>1571440407455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571440407455</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Notifications" timestamp="1589261524441">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1589261524441" />
+    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1589261931681">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589261931681" />
+    <state x="475" y="258" width="355" height="165" key="Github.CreateGistDialog" timestamp="1589261694052">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="475" y="258" width="355" height="165" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1589261694052" />
+    <state x="523" y="235" width="258" height="210" key="Github.ShareDialog" timestamp="1589261879650">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="523" y="235" width="258" height="210" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1589261879650" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1589261938173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589261938173" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1589260861054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589260861054" />
+    <state x="471" y="133" key="svn.repositoryBrowser" timestamp="1589261462571">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="471" y="133" key="svn.repositoryBrowser/0.0.1280.680@0.0.1280.680" timestamp="1589261462571" />
+  </component>
+</project>

@@ -1,0 +1,23 @@
+[
+  "packageAppDownloadCheck.py::GET_zcentral::test_001_QA",
+  "packageAppDownloadCheck.py::GET_zcentral::test_002_QA",
+  "packageAppDownloadCheck.py::Appmanager_Automation::test_001_QA",
+  "packageAppDownloadCheck.py::Appmanager_Automation::test_002_QA",
+  "packageAppDownloadCheck.py::Appmanager_Automation::test_002f",
+  "packageAppDownloadCheck.py::Appmanager_Automation::test_003_QA",
+  "packageAppDownloadCheck.py::Appmanager_Automation::test_004_QA",
+  "packageAppDownloadCheck.py::Appmanager_Automation::test_005_QA",
+  "packageAppDownloadCheck.py::Appmanager_install_Package_Check_Automation::test_001_install_curieselements",
+  "packageAppDownloadCheck.py::Appmanager_install_Package_Check_Automation::test_002_install_vivedScience",
+  "packageAppDownloadCheck.py::Appmanager_install_Package_Check_Automation::test_003_install_gta_industrial_robotics_mechenic",
+  "packageAppDownloadCheck.py::Appmanager_install_Package_Check_Automation::test_004_install_virtual_ECG",
+  "packageAppDownloadCheck.py::Appmanager_install_Package_Check_Automation::test_005_install_zcentral",
+  "packageAppDownloadCheck.py::Appmanager_install_Package_Check_Automation::test_006_install_zcentral",
+  "packageAppDownloadCheck.py::Appmanager_install_Package_Check_Automation::test_007_install_zcentral",
+  "packageAppDownloadCheck.py::Appmanager_install_Package_Check_Automation::test_001_install_Tennis",
+  "packageAppDownloadCheck.py::Appmanager_install_Package_Check_Automation::test_001_install_Tennis_Dir_exist",
+  "packageAppDownloadCheck.py::Appmanager_install_Package_Check_Automation::test_002_install_Tennis_number_of_files",
+  "packageAppDownloadCheck.py::Appmanager_install_Package_Check_Automation::test_003_install_Tennis_check_log_generated",
+  "packageAppDownloadCheck.py::Appmanager_install_Package_Check_Automation::test_004_install_Tennis_launch_app",
+  "packageAppDownloadCheck.py::Appmanager_install_Package_Check_Automation::test_001_install_zSpace_Tennis"
+]

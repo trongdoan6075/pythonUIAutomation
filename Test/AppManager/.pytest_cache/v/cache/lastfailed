@@ -1,0 +1,7 @@
+{
+  "packageAppDownloadCheck.py::Appmanager_Automation": true,
+  "packageAppDownloadCheck.py::Appmanager_Automation::test_002_QA": true,
+  "packageAppDownloadCheck.py::Appmanager_Automation::test_005_QA": true,
+  "packageAppDownloadCheck.py::Appmanager_install_Package_Check_Automation::test_001_install_Tennis_Dir_exist": true,
+  "packageAppDownloadCheck.py::GET_zcentral::test_002_QA": true
+}

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="mako29" name="pytest" skipped="0" tests="1" time="20.098" timestamp="2020-02-10T11:41:48.065745"><testcase classname="zSpaceLicensing.zSpace_Licensing" file="zSpaceLicensing.py" line="25" name="test_001_Check_Link_ribbon" time="19.575"></testcase></testsuite></testsuites>
